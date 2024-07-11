@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Shiladitya Sengupta
+N:Sengupta;Shiladitya;;;
+item1.EMAIL;TYPE=INTERNET:shiladitya_sengupta@outlook.com
+item1.X-ABLabel:
+TEL;TYPE=CELL:98369 19972
+item2.URL:www.shiladityasengupta.com
+item2.X-ABLabel:PROFILE
+CATEGORIES:myContacts
+END:VCARD
